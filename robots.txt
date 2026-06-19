@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gira416.github.io/webs-mahjonghu-com/sitemap.xml
